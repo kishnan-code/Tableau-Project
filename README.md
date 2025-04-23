@@ -20,14 +20,14 @@
 
 ### Strategic Recommendation 
 
-1. Investment Strategy for Countries  
+1. Investment Strategy for Countries   
   Prioritize training in high-medal-density sports (e.g., Swimming, Track & Field). Analyze cost-per-medal metrics to optimize ROI. 
 
-2. Gender Equity Roadmap 
+2. Gender Equity Roadmap   
   IOC should continue enforcing minimum gender participation quotas and promoting women's events globally.  
 
-3. Talent Identification Models  
+3. Talent Identification Models    
   Build athlete prediction models using repeat performer patterns to optimize early-stage talent pipelines.  
 
-4. Sporting Evolution Monitoring  
+4. Sporting Evolution Monitoring    
   Conduct separate trend tracking for newly added Olympic sports to monitor disruption to legacy patterns.
